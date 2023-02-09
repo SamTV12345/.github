@@ -1,10 +1,4 @@
 contact_links:
   - name: 🙌 Contribution Guide
-    url: https://github.com/antfu/contribute
+    url: https://github.com/SamTV12345/.github/blob/main/CONTRIBUTING.md
     about: Please read through before making contributions.
-  - name: 💬 Anthony's Discord Server
-    url: https://chat.antfu.me/
-    about: Want to discuss / chat with the community? Here you go!
-  - name: ⁉️ Why and How to make a reproduction?
-    url: https://antfu.me/posts/why-reproductions-are-required
-    about: Reproduction is very important for maintainer to help on your issues!
